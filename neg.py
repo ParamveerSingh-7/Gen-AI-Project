@@ -74,8 +74,8 @@ class NegotiationChatbot:
         return self.get_ai_response(f"The customer offered ${user_offer}. Based on our factors, we can offer a price of ${self.current_price}. Respond to the customer, justifying this price.")
 
 def main():
-    st.set_page_config(page_title="Advanced AI Negotiation Chatbot", page_icon="💼")
-    st.title("Advanced AI Negotiation Chatbot")
+    st.set_page_config(page_title="Terminal AI Chatbot", page_icon="💼")
+    st.title("Terminal AI Chatbot")
 
     if 'chatbot' not in st.session_state:
         product = Product("High-End Laptop", 1500, ["4K Display", "32GB RAM", "1TB SSD", "Dedicated GPU"])

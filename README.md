@@ -1,8 +1,8 @@
-# **AI Negotiation Assistant**
+# **Terminal AI Chatbot**
 
 ## **Overview**
 
-The **AI Negotiation Assistant** is an interactive AI-powered chatbot that simulates real-world negotiation scenarios. Users can negotiate the price of a product with an AI salesperson, who responds with realistic counter-offers and justifications based on product features, competitor prices, and customer loyalty.
+The **Terminal AI Chatbot** is an interactive AI-powered chatbot that simulates real-world negotiation scenarios. Users can negotiate the price of a product with an AI salesperson, who responds with realistic counter-offers and justifications based on product features, competitor prices, and customer loyalty.
 
 This assistant leverages Google's Gemini Generative AI for dynamic, context-aware negotiation, making it ideal for practicing negotiation skills or simulating business sales interactions.
 
@@ -12,7 +12,7 @@ This assistant leverages Google's Gemini Generative AI for dynamic, context-awar
 
 Frontend UI:
 
-![AI Negotiation Assistant Frontend](images/Screenshot%202025-05-10%20at%2011.59.31%E2%80%AFAM.png)
+![Terminal AI Chatbot Frontend](/image/Screenshot%202025-05-10%20at%2012.47.33%E2%80%AFPM.png)
 
 ---
 
