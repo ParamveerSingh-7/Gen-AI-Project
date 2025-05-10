@@ -12,7 +12,7 @@ This assistant leverages Google's Gemini Generative AI for dynamic, context-awar
 
 Frontend UI:
 
-![AI Negotiation Assistant Frontend](../Screenshot%202025-05-10%20at%2011.59.31%E2%80%AFAM.png)
+![AI Negotiation Assistant Frontend](images/Screenshot%202025-05-10%20at%2011.59.31%E2%80%AFAM.png)
 
 ---
 
